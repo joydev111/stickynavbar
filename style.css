@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    height: auto;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 50px;
+    margin-top: 10px;
+}
+.company{
+    margin-top: 15px;
+    margin-left: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    
+}
+.home{
+    margin-top: 9px;
+    margin-left: 500px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 20px;
+   
+}
+.main{
+    display: flex;
+    margin-top: 50px;
+    width: auto;
+}
+.para{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.btn{
+    width: 150px;
+    color: aliceblue;
+    background-color: black;
+    height: 50px;
+    margin-top: 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.heading{
+    margin-left: 100px;
+    width: auto;
+}
+.img{
+    width: 400px;
+    margin-right: 30px;
+    height:auto;
+    border-radius: 3px;
+}
